@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leading Facility Management]]></title>
+        <description><![CDATA[Leading Facility Management]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 19:35:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grant Sommerfeld]]></title>
+            <description><![CDATA[<article><h1>Grant Sommerfeld</h1><p>Organizational transformer, strategist, and leader in facility management.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12b08baa-435c-4260-820f-8ee963bda0b8.jpg"></article>]]></description>
+            <link>https://ca.linkedin.com/in/grantsommerfeld</link>
+            <guid isPermaLink="false">3a4fb67c-128d-48b9-b6dd-c163bd3d780c</guid>
+            <pubDate>Sun, 15 May 2016 19:35:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
